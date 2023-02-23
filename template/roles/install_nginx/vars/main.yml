@@ -1,0 +1,4 @@
+---
+# vars file for install_nginx
+hello_fullcycle: "OII MEU AMOR EU TE AMO TO MORRENDO DE SUADADES!!!"
+url_app: "http://localhost:3002"
